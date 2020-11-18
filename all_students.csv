@@ -1,0 +1,16 @@
+﻿student_id,school_id,grade_level,date_of_birth,hometown
+1,1,9,11/9/99,Bryn Mawr
+2,1,9,11/10/99,Gladwyne
+3,1,10,11/11/98,Elizabeth
+4,2,10,11/12/95,Nanjing
+5,2,11,11/13/00,Huldenberg
+6,2,11,11/9/99,Leawood
+7,3,12,11/10/99,San Marino
+8,3,12,11/11/98,Lafayette Hill
+9,3,9,11/12/95,Troy
+10,4,9,11/13/00,Bronxville
+11,4,10,11/9/99,Wrentham
+12,4,10,11/10/99,Miami
+13,5,11,11/11/98,Copenhagen
+14,5,12,11/12/95,Singapore
+15,5,12,11/13/00,Old Greenwich
